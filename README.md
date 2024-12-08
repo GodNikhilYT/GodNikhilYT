@@ -5,8 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=godnikhilyt&label=Profile%20views&color=0e75b6&style=flat" alt="godnikhilyt" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/GodNikhilYT?tab=repositories](https://github.com/GodNikhilYT?tab=repositories)
-
--  🌐 How to reach me **https://nikhilchoudhary.netlify.app/**
+- 🌐 How to reach me **https://nikhilchoudhary.netlify.app/**
 - 📫 1:1 Connect   **https://topmate.io/nikhil_chaudhary**                  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
