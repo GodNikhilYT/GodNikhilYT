@@ -6,8 +6,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/GodNikhilYT?tab=repositories](https://github.com/GodNikhilYT?tab=repositories)
 
-- 📫 How to reach me **https://nikhilchoudhary.netlify.app/**
-
+-  🌐 How to reach me **https://nikhilchoudhary.netlify.app/**
+- 📫 1:1 Connect   **https://topmate.io/nikhil_chaudhary**                  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/Nikhil-Chaudhary-the-looper/pens/showcase" target="blank">
