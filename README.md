@@ -34,4 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=godnikhilyt&show_icons=true&locale=en" alt="godnikhilyt" /></p>
 
-<p><img align="center" src="https://cdn.dribbble.com/userupload/19599497/file/original-f7b3e9e0794f0b580a84f09407b2e3ec.gif" alt="godnikhilyt" width="40" height="40" /></p>
+<p><img align="center" src="https://cdn.dribbble.com/userupload/19599497/file/original-f7b3e9e0794f0b580a84f09407b2e3ec.gif" alt="godnikhilyt" width="400" height="400" /></p>
